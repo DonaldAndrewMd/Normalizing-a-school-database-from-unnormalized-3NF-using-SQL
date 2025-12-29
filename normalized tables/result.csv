@@ -1,0 +1,11 @@
+"result_id","student_id","class_name","subject_name","term_id","ca1","ca2","exam","total","grade","school_fees_paid","payment_date"
+1,"STU1124","SS1","Physics",1,12,12,47,71,"A","Yes","2024-04-12"
+2,"STU1245","SS1","Mathematics",1,8,11,53,72,"A","Yes","2024-04-13"
+3,"STU1295","SS2","Chemistry",1,17,10,36,63,"B","Yes","2024-01-18"
+4,"STU0140","SS2","Biology",1,16,8,42,66,"B","Yes","2024-03-15"
+5,"STU0370","SS2","Chemistry",1,14,5,46,65,"B","No",NULL
+6,"STU0639","SS1","English",1,15,7,37,59,"C","Yes","2024-03-15"
+7,"STU0812","SS3","Physics",1,19,5,30,54,"C","Yes","2024-04-28"
+8,"STU0818","SS2","English",1,14,9,47,70,"A","No",NULL
+9,"STU0974","SS2","Chemistry",1,13,11,56,80,"A","Yes","2024-03-02"
+10,"STU1224","SS3","Chemistry",1,10,12,58,80,"A","No",NULL
